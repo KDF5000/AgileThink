@@ -1,0 +1,696 @@
+[ 2015-09-25T00:34:17+08:00 ] 127.0.0.1 /
+NOTIC: [8] Use of undefined constant EXT - assumed 'EXT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Build.php 第 119 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001734s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:35:43+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000106s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:35:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:35:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000161s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:35:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:35:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000117s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:35:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:35:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000156s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:35:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000162s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:35:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:35:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000160s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:35:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:35:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:35:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:35:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000105s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:36:01+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:39:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:40:04+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000103s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:40:04+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:40:04+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T00:40:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000125s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:25:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001104s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001214s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:27:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:28:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000109s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:28:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:28:25+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000107s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:28:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:29:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:30:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000112s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:30:58+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000115s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:32:05+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001142s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:32:20+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+NOTIC: [8] Use of undefined constant APP_USE_NAMESPACE - assumed 'APP_USE_NAMESPACE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Common/functions.php 第 669 行.
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:32:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:32:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:32:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:33:05+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:33:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:35:48+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:36:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000173s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:38:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-25T20:45:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034549s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034594s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009676s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009717s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011236s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011292s ]
+
+[ 2015-09-25T20:53:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000177s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000515s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000613s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000103s ]
+
+[ 2015-09-25T20:53:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000073s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000114s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000071s ]
+
+[ 2015-09-25T20:53:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000071s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000111s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2015-09-25T20:53:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000136s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000218s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000075s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000150s ]
+
+[ 2015-09-25T21:00:22+08:00 ] 127.0.0.1 /index.php/home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000068s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000112s ]
+
+[ 2015-09-25T21:00:37+08:00 ] 127.0.0.1 /index.php/home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-09-25T21:06:22+08:00 ] 127.0.0.1 /index.php/home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000131s ]
+
+[ 2015-09-25T21:06:44+08:00 ] 127.0.0.1 /index.php/home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000089s ]
+
+[ 2015-09-25T21:06:45+08:00 ] 127.0.0.1 /index.php/home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000157s ]
+
+[ 2015-09-25T21:06:45+08:00 ] 127.0.0.1 /index.php/home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000079s ]
+
+[ 2015-09-25T21:06:45+08:00 ] 127.0.0.1 /index.php/home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000075s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000163s ]
+
+[ 2015-09-25T21:06:46+08:00 ] 127.0.0.1 /index.php/home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000077s ]
+
+[ 2015-09-25T21:06:46+08:00 ] 127.0.0.1 /index.php/home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000079s ]
+
+[ 2015-09-25T21:06:46+08:00 ] 127.0.0.1 /index.php/home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000082s ]
+
+[ 2015-09-25T21:06:47+08:00 ] 127.0.0.1 /index.php/home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000083s ]
+
+[ 2015-09-25T21:06:57+08:00 ] 127.0.0.1 /index.php/home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000173s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/Desktop/AgileThink/vendor/kdf5000/easythink/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000131s ]
+

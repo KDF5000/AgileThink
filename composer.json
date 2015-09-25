@@ -1,0 +1,19 @@
+{
+    "name": "kdf5000/agilethink",
+    "description": "a php framework using composer based on thinkphp",
+    "require": {
+        "kdf5000/easythink": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "KDF5000",
+            "email": "kdf5000@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+      "psr-4":{
+        "*\\": "Application/*"
+      }
+    }
+}
